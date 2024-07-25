@@ -8,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the bac
 
 ```bash
 cd backend
-pip install
+pip install -r requirements.txt
 python app.py
 ```
 Use npm to to install the frontend requirements
